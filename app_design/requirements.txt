@@ -1,0 +1,2 @@
+pycharm版本为2022.1.3
+Anaconda配置虚拟环境，python版本为3.7
